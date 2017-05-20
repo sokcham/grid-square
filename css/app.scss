@@ -1,0 +1,18 @@
+$cloud: #ecf0f1;
+$silver: #bdc3c7;
+
+$primary-backcolor: $silver;
+$secondary-backcolor: $cloud;
+
+.my-parent
+{
+    background-color: $primary-backcolor;
+    padding: 10px;
+}
+
+.my-child
+{
+    background-color: $secondary-backcolor;
+    margin: 5px;
+    padding: 10px;
+}

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="172.00208mm"
+   height="137.58333mm"
+   viewBox="0 0 172.00208 137.58333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="monkey.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.65175812"
+     inkscape:cx="389.32779"
+     inkscape:cy="134.84571"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg8"
+     showgrid="false"
+     inkscape:window-width="1479"
+     inkscape:window-height="832"
+     inkscape:window-x="146"
+     inkscape:window-y="81"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="ear-right">
+    <circle
+       class="ear-right"
+       cx="136.09433"
+       cy="47.203514"
+       style="fill:#87cdde;fill-opacity:1;stroke-width:0.26458332"
+       r="35.907738" />
+    <circle
+       class="inner-ear-right"
+       cx="136.09433"
+       cy="47.203514"
+       style="fill:#216778;stroke-width:0.20107488"
+       r="27.288734" />
+  </g>
+  <g
+     inkscape:label="ear-left"
+     inkscape:groupmode="layer"
+     id="monkey"
+     style="display:inline">
+    <circle
+       class="ear-left"
+       cx="35.907738"
+       cy="47.203514"
+       style="fill:#87cdde;fill-opacity:1;stroke-width:0.26458332"
+       r="35.907738" />
+    <circle
+       class="inner-ear-left"
+       cx="35.907738"
+       cy="46.39436"
+       style="fill:#216778;stroke-width:0.20107488"
+       r="27.288736" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="head"
+     style="display:inline">
+    <circle
+       class="head"
+       cx="86.001038"
+       cy="68.791664"
+       r="68.791664"
+       style="display:inline;fill:#87cdde;fill-opacity:1;stroke-width:0.26458332" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="eye-right">
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+       class="eye-right"
+       cx="111.53466"
+       cy="56.844593"
+       r="19.28278" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+       class="inner-eye-right"
+       cx="111.53466"
+       cy="57.656498"
+       r="6.6982284" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="eye-left"
+     transform="translate(0,-1.3748741)">
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+       class="eye-left"
+       cx="61.501919"
+       cy="58.219467"
+       r="19.28278" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke-width:0.26458332"
+       class="inner-eye-left"
+       cx="61.501919"
+       cy="59.031372"
+       r="6.6982284" />
+  </g>
+  <ellipse
+     style="fill:#501616;fill-opacity:1;stroke-width:0.26458332"
+     class="nose"
+     cx="86.001038"
+     cy="96.386208"
+     rx="11.366692"
+     ry="23.139336" />
+</svg>
