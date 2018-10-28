@@ -1,9 +1,11 @@
+import { sum } from "../js/mathExp.js";
+
 // Application code
 function getManagerName(){
   return 'Roberto Martine';
 }
 // Tests
-describe("foo tests", function () {
+xdescribe("foo tests", function () {
 
   it('returns correct value', function (){
     let newValue = "this is a test"
@@ -12,8 +14,15 @@ describe("foo tests", function () {
   });
 });
 
+describe("math tests", function () {
+
+  it('returns correct value', function (){
+    expect(sum(3, 5)).toBe(8)
+  });
+});
+
 // Tests
-describe("getManagerName tests", function () {
+xdescribe("getManagerName tests", function () {
   
   beforeEach(function() {
     foo = 0
